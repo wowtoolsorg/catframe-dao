@@ -1,0 +1,9 @@
+{
+	"dataSourceName":"default",
+	"user":"usr",
+	"password":"pwd",
+	"jdbcUrl":"jdbc:mysql://localhost:3306/dbname",
+	"driverClass":"com.mysql.jdbc.Driver",
+	"minPoolSize":0,
+	"maxPoolSize":10
+}
