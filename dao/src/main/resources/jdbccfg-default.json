@@ -1,9 +1,0 @@
-{
-	"dataSourceName":"default",
-	"user":"root",
-	"password":"10liuyu12",
-	"jdbcUrl":"jdbc:mysql://localhost:3306/wowtools",
-	"driverClass":"com.mysql.jdbc.Driver",
-	"minPoolSize":0,
-	"maxPoolSize":10
-}
